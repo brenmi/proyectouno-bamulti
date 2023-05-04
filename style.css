@@ -1,0 +1,17 @@
+.imagen 
+{
+    background-image: url("/imagenes/diseño.jpeg") ; 
+   width: 400px;
+    height: 480px;
+
+}
+
+body
+{
+    background-image: url("/imagenes/fondo.webp") ; 
+    width: 400px;
+    height: 480px;
+
+
+
+}
